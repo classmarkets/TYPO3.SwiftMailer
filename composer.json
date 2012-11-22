@@ -4,10 +4,8 @@
     "description": "A TYPO3 Flow package of SwiftMailer",
     "license": "LGPL-3.0",
     "require": {
-        "typo3/flow": "*"
-    },
-    "provide": {
-        "swiftmailer/swiftmailer": "4.1.5"
+        "typo3/flow": "*",
+        "swiftmailer/swiftmailer":"4.1.*"
     },
     "autoload": {
         "psr-0": {
