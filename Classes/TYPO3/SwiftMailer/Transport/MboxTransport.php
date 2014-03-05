@@ -11,8 +11,6 @@ namespace TYPO3\SwiftMailer\Transport;
  * The TYPO3 project - inspiring people to share!                         *
  *                                                                        */
 
-use TYPO3\Flow\Annotations as Flow;
-
 /**
  * A swift transport that delivers to a text file according to RFC 4155.
  *

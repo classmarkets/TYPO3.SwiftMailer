@@ -1,10 +1,9 @@
 {
-    "name": "typo3/swiftmailer",
-    "type": "typo3-flow-package",
-    "description": "A TYPO3 Flow package of SwiftMailer",
+    "name": "classmarkets/swiftmailer-transport-mbox",
+    "type": "library",
+    "description": "Mbox Transport for SwiftMailer",
     "license": "LGPL-3.0",
     "require": {
-        "typo3/flow": "*",
         "swiftmailer/swiftmailer":"4.1.*"
     },
     "autoload": {
