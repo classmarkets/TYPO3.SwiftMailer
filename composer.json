@@ -4,7 +4,7 @@
     "description": "Mbox Transport for SwiftMailer",
     "license": "LGPL-3.0",
     "require": {
-        "swiftmailer/swiftmailer":"5.*.*"
+        "swiftmailer/swiftmailer":"~5.0"
     },
     "autoload": {
         "psr-0": {
